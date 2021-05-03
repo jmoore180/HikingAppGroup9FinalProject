@@ -1,0 +1,7 @@
+There exits a debug apk which can be used on android devices or emulators, however we rocomend that you run the app through android studio.
+
+download android studio and the respective emulation software necary to run the project.
+Insert the unzipped project folder into android studio
+locate the run button on the top which is next to a green arrow
+
+If there are any other issues with the emulator in andoid studio you can find many tutorials or discussions with several useful fixes, or you can contact our team at jmoore180@student.gsu.edu
