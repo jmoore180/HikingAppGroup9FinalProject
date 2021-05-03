@@ -1,0 +1,18 @@
+Requires an Android emulator to implement. We recommend Android Studio.
+
+1.	Open app and login with username and password or click join now for sign in.
+2.	Use navigation bar at the bottom of the screen to switch between one feature screen and another.
+3.	From the home screen you can see a list of features from maps to general local weather information as well as map management and a travel tip in the middle of the screen
+4.	Use navigation bar at the bottom of the screen to switch to the map screen.
+5.	Here you can search for new trails at the top of the screen.
+6.	Below this, you can see the map management function; here you can add, delete, or assign a favorite map to your list.
+7.	Below that, you can access the altitude tracker for a given trail.
+8.	Use navigation bar at the bottom of the screen to switch to the weather screen.
+9.	At the top of this screen you can select a day of the week which you wish to see the weather conditions for.
+10.	Below that you can find weather specific tips for outdoor trips.
+11.	Below this there is another general travel tips banner.
+12.	Use navigation bar at the bottom of the screen to switch to the information screen on the far-right bottom of the screen.
+13.	Here you can access articles and other information on necessary preparations for your trip such as gear, water requirements, and where to acquire supplies.
+14.	In the top left corner, there is a settings button where you can access and alter your settings.
+
+Enjoy!
